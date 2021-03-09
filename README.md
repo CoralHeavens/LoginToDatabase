@@ -8,4 +8,4 @@ Test details:   username: TestUser
                 password: 1+1Password
 
 **!ATTENTION!
-If you ignore all files except main.py, please execute backup.py in the same folder as main.py**
+Please, donwload all files to the same directory (backup is not important)**
